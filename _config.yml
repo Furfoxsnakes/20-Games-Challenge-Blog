@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 20 Games Challenge Blog
+description: A place to reflect upon each project
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+Welcome to my 20 Game Challenge blog, where I aim to post about every porject that I undertake for this challenge. These posts will aim to be a self-reflection for each project, going over what went well, what didn't go well, and things that I've learned.
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+First and foremost, a brief description of what this 20 Games Challenge is, and why I'm doing it.
+## What is it?
+The 20 Games Challenge was created by another user as their own way of learning game development. You can read more about it on the <a href="https://20_games_challenge.gitlab.io/">main project site.</a>
+
+## Ok, but, why?
+I have been a hobbyist game developer for about 8 years. I started with Unity 5 and have since moved to Godot. I have very few completed projects to my name in this time. My hope is that this project will provide me with experience on how to properly scope a game and prevent future projects from getting over scoped.
